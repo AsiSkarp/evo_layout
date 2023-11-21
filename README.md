@@ -1,5 +1,7 @@
-# evolutionary_house
+# evo_layout
 Group project for Advanced Artificial Intelligence for Games course at SDU
+
+This repository hosts a floor plan layout generator that finds an optimal solution to fitting a predefined set of rooms into a a floor plan using a [Genetic Algorithm](org/wiki/Genetic_algorithm).   
 
 ## Getting started
 
@@ -10,3 +12,5 @@ To start you have to install the conda environment containing pyGAD (evoluationa
 > conda env create --file lpy.yml --name lpy
 3. Activate Conda environment
 > conda activate lpy
+
+
