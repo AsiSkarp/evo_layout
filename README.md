@@ -9,3 +9,4 @@ To start you have to install the conda environment containing pyGAD (evoluationa
 2. Create environment from the `.yml` file e.g.
 > conda env create --file lpy.yml --name lpy
 3. Activate Conda environment
+> conda activate lpy
